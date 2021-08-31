@@ -9,14 +9,14 @@ The goal of this project was to help Steve come up with a financial stock plan t
 ## Results
 ### Stock Perfomance
 -In 2017, the 12 stocks we were doing data on did quite well. 
-![2017stock](/Users/JSTEINY/Desktop/Bootcamp/stock-analysis/2017stock.png)
+![2017stock](Resources/2017stock.png)
 
 -As you can see, 10 of the 12 stocks had a profitable year. This is a great sign if you are interested in this field of stocks.
 
 
 -Unfortunately, the momentum of these stocks from 2017 went the opposite way in 2018.
 
-![2017stock](/Users/JSTEINY/Desktop/Bootcamp/stock-analysis/2018stock.png)
+![2018stock](Resources/2018stock.png)
 
 -In this year, 10 of the 12 stocks had negative returns. As great as 2017 was in this field, 2018 had the opposite outcome.
 
@@ -25,10 +25,10 @@ The goal of this project was to help Steve come up with a financial stock plan t
 ### Execution Times
 - When we refactored our data, the code ran significantly faster for both years. As you can see in the pictures below, the refactored code ran in under a second, and the non refactored code ran in about 4.5 seconds.
 
-- 2017 Refactored ![VBA_Challenge_2017](/Users/JSTEINY/Desktop/Bootcamp/stock-analysis/Resources/VBA_Challenge_2017.png)
+- 2017 Refactored ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
 - 2017 not refactored ![old2017](/Users/JSTEINY/Desktop/Bootcamp/stock-analysis/old2017.png)
 
-- 2018 Refactored ![VBA_Challenge_2018](/Users/JSTEINY/Desktop/Bootcamp/stock-analysis/Resources/VBA_Challenge_2018.png)
+- 2018 Refactored ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
 - 2018 not Refactored ![old2018](/Users/JSTEINY/Desktop/Bootcamp/stock-analysis/old2018.png)
 
 
@@ -37,7 +37,7 @@ The goal of this project was to help Steve come up with a financial stock plan t
 
 
 
-##Summary
+## Summary
 
 1. The advantages of refactoring data are, once coded, the code runs quicker and it is easier to update data that is not added into a data set yet. Once the refactored code is set up, it makes automating the data much easier. The disadvantage of refactoring data is the time it takes to code. Sometimes, a dataset does not need to be automated and hard coding makes more sense.
 
