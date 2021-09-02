@@ -11,7 +11,7 @@ The goal of this project was to help Steve come up with a financial stock plan t
 -In 2017, the 12 stocks we were doing data on did quite well. 
 ![2017stock](Additional_pics/2017stock.png)
 
--As you can see, 10 of the 12 stocks had a profitable year. This is a great sign if you are interested in this field of stocks.
+-As you can see, 11 of the 12 stocks had a profitable year. This is a great sign if you are interested in this field of stocks.
 
 
 -Unfortunately, the momentum of these stocks from 2017 went the opposite way in 2018.
@@ -20,7 +20,7 @@ The goal of this project was to help Steve come up with a financial stock plan t
 
 -In this year, 10 of the 12 stocks had negative returns. As great as 2017 was in this field, 2018 had the opposite outcome.
 
--The only two stocks to have profitable returns in both years were ENPH and RUN.
+-The only 2 stocks to have a profitable return in both years were RUN and ENPH.
 
 ### Execution Times
 - When we refactored our data, the code ran significantly faster for both years. As you can see in the pictures below, the refactored code ran in under a second, and the non refactored code ran in about 4.5 seconds.
